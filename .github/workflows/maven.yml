@@ -1,5 +1,5 @@
 
-name : Java & Docker
+name : Java & Maven & Docker
 
 on:
   push:
